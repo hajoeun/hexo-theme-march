@@ -1,8 +1,6 @@
-# Landscape
+# April
 
-A brand new default theme for [Hexo].
-
-- [Preview](http://hexo.io/hexo-theme-landscape/)
+<!--- [Preview](http://hexo.io/hexo-theme-landscape/)
 
 ## Installation
 
@@ -109,3 +107,4 @@ All of them are enabled by default. You can edit them in `widget` setting.
 [Fancybox]: http://fancyapps.com/fancybox/
 [Font Awesome]: http://fontawesome.io/
 [Grunt]: http://gruntjs.com/
+-->
