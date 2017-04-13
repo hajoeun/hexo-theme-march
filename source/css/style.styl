@@ -68,12 +68,18 @@ body
 
 #body.outer
   min-height 100%
+  padding-right 40px
   margin-top -(header-height)
   margin-bottom -(footer-height)
 
 #main
+  display flex
+  justify-content space-between
   padding-top header-height
   padding-bottom footer-height
+
+#main > section
+  width 70%
 
 @import "_extend"
 @import "_partial/header"

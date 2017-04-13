@@ -1,8 +1,7 @@
 # Header
 menu:
-  소개: /about
-  블로그: /
-  Github: https://www.github.com/marpple
+  Docs: /docs
+  Github: https://github.com/marpple/partial
 #  Archives: /archives
 # rss: /atom.xml
 
@@ -11,12 +10,12 @@ excerpt_link: Read More
 fancybox: true
 
 # Sidebar
-#sidebar: right
+sidebar: left
 widgets:
-- category
-- tag
-- tagcloud
-- archive
+#- category
+#- tag
+#- tagcloud
+#- archive
 - recent_posts
 
 # display widgets at the bottom of index pages (pagination == 2)
